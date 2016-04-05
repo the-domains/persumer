@@ -1,0 +1,28 @@
+name: Persumer
+favicon: null
+layout_spectrum: 0.8825585928279907
+typography_spectrum: 0.5405713235959411
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5010466105304658
+  lightness: 0.8566115233115852
+  saturation: 0.5979912006296217
+  rhythmicContrast: 0.755279810866341
+purpose: []
